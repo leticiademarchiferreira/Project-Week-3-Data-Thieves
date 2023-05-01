@@ -1,16 +1,16 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Rental Housing in Portugal]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Lisboa & 28/04/2023 ]*
 
 ## Content
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
+- [Ironhack](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
